@@ -21,7 +21,7 @@ A text editor or IDE (e.g., VS Code, IntelliJ, Eclipse)
 
 
 Clone the repository:
-git clone https://github.com/yourusername/RockPaperScissors.git
+git clone https://github.com/bhuvanreddy2005/ROCK-PAPER-SCISSORS.git
 cd RockPaperScissors
 
 Compile the program: bash Copy Edit javac RockPaperScissors.java Run the program:
